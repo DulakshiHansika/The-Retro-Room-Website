@@ -17,7 +17,7 @@ This project successfully fulfills all core web design requirements:
 Technologies Used
  * HTML5 - Page structure and semantic formatting.
  * CSS3 - Custom variables, typography, grids, flexbox, and responsive design animations.
- * JavaScript (ES6)** - Client-side interactive DOM manipulation.
+ * JavaScript (ES6) - Client-side interactive DOM manipulation.
 
 📂 Project Structure
 text
