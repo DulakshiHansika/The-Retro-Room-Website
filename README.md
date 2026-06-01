@@ -21,5 +21,5 @@ Technologies Used
 
 📂 Project Structure
 text
-├── index.html          Main HTML document containing structure, styles, and scripts
-└── README.md           Project overview and documentation
+├── index.html         #  Main HTML document containing structure, styles, and scripts
+└── README.md          #  Project overview and documentation
